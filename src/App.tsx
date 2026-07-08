@@ -68,7 +68,7 @@ export default function App() {
               <div className="p-[1px] rounded-xl bg-gradient-to-r from-purple-500/50 to-indigo-500/50 inline-block w-full">
                 <div className="bg-[#0a0a0a] px-6 py-4 rounded-xl">
                   <p className="text-purple-400 font-bold text-lg md:text-xl tracking-wider">
-                    <span className="text-white select-all">user2026k</span>
+                    <span className="text-white select-all">viral2026k</span>
                   </p>
                   <p className="text-slate-500 text-xs mt-2 font-medium uppercase tracking-tighter">
                     salve para evitar problemas
